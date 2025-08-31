@@ -23,7 +23,7 @@ Workflow:
  Results: 
  <img width="1864" height="753" alt="wandb_logs" src="https://github.com/user-attachments/assets/97c19513-efce-4106-ada7-b0358516a64b" />
 
-  graphs included show the very first run on Colab. Not bad. I ran out of GPU time on Colab, hence the severe dropoff at the end. Note, using the NVIDIA RTX 4060 only took 1 hour, whereas the free tier on Colab took 4 hours. 
+  graphs included show the very first run on Colab. Not bad. I ran out of GPU time on Colab, so I will add more complete graphs later. Note, using the NVIDIA RTX 4060 only took 1 hour, whereas the free tier on Colab took 4 hours. 
   
 
 Future Work: 
