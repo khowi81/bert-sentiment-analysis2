@@ -1,4 +1,4 @@
-Title: Bert-Sentiment-Analysis: Fine Tuning BERT for Sentiment Analysis on Tweets (Sentiment 140 dataset)
+Bert-Sentiment-Analysis: Fine Tuning BERT for Sentiment Analysis on Tweets (Sentiment 140 dataset)
 
 Overview: This project fine tunes a pretrained BERT model (BERT-base-uncased) on a sample of 100k tweets from the Sentiment 140 dataset. 
    The goal was to build an end to end ML workflow, from preprocessing and tokenization to model training, evaluation and experiment
