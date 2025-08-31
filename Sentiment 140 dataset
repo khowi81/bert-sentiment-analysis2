@@ -1,0 +1,4 @@
+If you're using HuggingFace and connect everything, you can grab it from there. 
+However, I downloaded it from Kaggle and uploaded it to my Google Drive for seamless integration. 
+https://www.kaggle.com/datasets/kazanova/sentiment140
+Please note, I used the first 100k rows for model training, not the full dataset. 
