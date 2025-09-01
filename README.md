@@ -39,3 +39,8 @@ jupyter notebook notebook/sentiment_bert.ipynb
 
 
  Special Note: the Jupyter notebook has some notes, as I was learning as I was building. 
+
+ ## ✨ Acknowledgments
+- Hugging Face community  
+- Sentiment140 dataset creators  
+- Weekend hackathon spirit ✌️ 
